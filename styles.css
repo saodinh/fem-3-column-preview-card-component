@@ -61,7 +61,7 @@ img {
     border-radius: 1rem;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 900px) {
     .cards {
         flex-direction: row;
         max-width: 920px;
@@ -81,7 +81,7 @@ img {
     border-radius: 1.5rem 1.5rem 0 0;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 900px) {
     .card-sedans {
         border-radius: 1.5rem 0 0 1.5rem;
     }
@@ -96,7 +96,7 @@ img {
     border-radius: 0 0 1.5rem 1.5rem;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 900px) {
     .card-luxury {
         border-radius: 0 1.5rem 1.5rem 0;
     }
@@ -118,7 +118,7 @@ img {
     transition: all 200ms ease-in-out;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 900px) {
     .btn {
         margin-top: 8rem;
     }
